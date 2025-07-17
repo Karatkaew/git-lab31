@@ -1,4 +1,3 @@
 <?php
-echo"menu";
-echo"Product";
+echo "Gundum 1/100";
 ?>
